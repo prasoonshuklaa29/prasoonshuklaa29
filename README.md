@@ -1,5 +1,5 @@
 #  About Me:
-🎓 B.Tech CS Undergraduate | Aspiring Software Engineer  <br>💻 Currently building web applications with Python.<br>🌱 Learning: Data Structures & Algorithms, AI/ML fundamentals, System Design  <br>🛠️ Tech Stack: Python, JavaScript, HTML/CSS, SQL, Git/GitHub  <br>📚 Interests: Web Development, Machine Learning, Open Source  <br>⚡ Fun fact: I enjoy turning ideas into working prototypes and learning by building real projects  <br>📫 Reach me: prasoonshukla29@gmail.com | https://www.linkedin.com/in/prasoonshukla06/<br>
+🎓 B.Tech CS Undergrad | Aspiring Software Engineer  <br>💻 Currently building web applications with Python.<br>🌱 Learning: Data Structures & Algorithms, AI/ML fundamentals, System Design  <br>🛠️ Tech Stack: Python, JavaScript, HTML/CSS, SQL, Git/GitHub  <br>📚 Interests: Web Development, Machine Learning, Open Source  <br>⚡ Fun fact: I enjoy turning ideas into working prototypes and learning by building real projects  <br>📫 Reach me: prasoonshukla29@gmail.com | https://www.linkedin.com/in/prasoonshukla06/<br>
 
 
 #  Tech Stack:
